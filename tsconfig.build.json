@@ -14,5 +14,22 @@
     "moduleResolution": "node",
     "target": "esnext",
     "jsx": "preserve"
-  }
+  },
+  "references": [
+    {
+      "path": "framework/api-client/"
+    },
+    {
+      "path": "framework/core/"
+    },
+    {
+      "path": "framework/ui/"
+    },
+    {
+      "path": "framework/ui-theme-dark/"
+    },
+    {
+      "path": "modules/assets/"
+    }
+  ]
 }
